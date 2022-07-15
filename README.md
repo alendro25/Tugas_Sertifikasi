@@ -1,4 +1,4 @@
-# Tugas Crud (Create Read Update Delete) Antara PHP dan MySQL
+# Tugas Crud (Create Read Update Delete) dengan PHP dan MySQL
 
 # Nama : Gerald Alessandro Timothy
 
